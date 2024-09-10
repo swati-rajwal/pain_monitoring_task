@@ -11,10 +11,10 @@ This continuous pain rating task assesses pain intensity using the open-source s
 
 The interface of the application and the experiment timeline are depicted in Figure 1:
 <figure align="center">
-  <img width="651" alt="image" src="https://github.com/swati-rajwal/pain_monitoring_task/blob/main/exp_small.jpg">
+  <img width="651" alt="image" src="exp_small.jpg">
   <figcaption>Figure 1: Experimental Task Design.</figcaption>
 </figure>
-
+ 
 ### 📑 Citation
 Please consider citing 📑 our paper if our repository is helpful to your work.
 ```bibtex
