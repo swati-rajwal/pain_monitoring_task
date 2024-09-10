@@ -1,13 +1,25 @@
-# Pain Monitoring Task
+<h1 align="center"> Pain Monitoring Task</a></h1>
+<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
+<h5 align="center">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswati-rajwal%2Fpain_monitoring_task&count_bg=%23C83D7B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![GitHub Repo stars](https://img.shields.io/github/stars/swati-rajwal/pain_monitoring_task)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+</h5>
 
-This continuous pain rating task assesses pain intensity using the open-source software PsychoPy [1] hosted on Pavlovia [2]. At the start, participants were provided with detailed instructions and required to complete a short practice run to ensure they understood how the application worked. Once this was completed, participants continuously rated their pain for approximately five minutes on a vertical scale ranging from "Least Pain" to "Most Pain."
+This continuous pain rating task assesses pain intensity using the open-source software PsychoPy [1] hosted on Pavlovia [2]. At the start, participants are provided with detailed instructions and asked to complete a short practice run to ensure they understood how the application worked. Once this is completed, participants continuously rated their pain for approximately five minutes on a vertical scale ranging from "Least Pain" to "Most Pain."
 
 The interface of the application and the experiment timeline are depicted in Figure 1:
-<figure>
+<figure align="center">
   <img width="651" alt="image" src="https://github.com/swati-rajwal/pain_monitoring_task/blob/main/exp_small.jpg">
   <figcaption>Figure 1: Experimental Task Design.</figcaption>
 </figure>
 
+### 📑 Citation
+Please consider citing 📑 our paper if our repository is helpful to your work.
+```bibtex
+@article{}
+```
 
 ## References
 
