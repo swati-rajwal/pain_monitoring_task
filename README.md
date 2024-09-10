@@ -14,6 +14,13 @@ The interface of the application and the experiment timeline are depicted in Fig
   <img width="651" alt="image" src="exp_small.jpg">
   <figcaption>Figure 1: Experimental Task Design.</figcaption>
 </figure>
+
+## 🏃‍♂️Running the Task 
+1. Create an account on [pavlovia.org](https://gitlab.pavlovia.org/) 
+2. Click on '+' sign on top navigation bar and select 'New project' option.
+3. Select 'Import project' and then click on the 'Repo by URL' button
+4. Paste our current [GitHub URL](https://github.com/swati-rajwal/pain_monitoring_task) under the 'Git repository URL' textbox. On the pavlovia page, you can rename the default 'Project name' to suit your project's requirements.
+5. Voilà! The task is instantly ready to use for your experiment.
  
 ### 📑 Citation
 Please consider citing 📑 our paper if our repository is helpful to your work.
