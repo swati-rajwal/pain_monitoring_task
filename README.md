@@ -33,4 +33,7 @@ Citation will be updated as soon as a preprint or publication is available
 ## 📚References
 
 1. Peirce, J., Gray, J.R., Simpson, S. et al. *PsychoPy2: Experiments in behavior made easy.* Behav Res 51, 195–203 (2019). https://doi.org/10.3758/s13428-018-01193-y
-2. Pavlovia. *Pavlovia*, https://pavlovia.org/. Accessed 10/09/024.
+2. Pavlovia. *Pavlovia*, https://pavlovia.org/. Accessed 11<sup>th</sup> September 2024.
+
+### ⚖️License
+Generously distributed under the [MIT](https://opensource.org/license/MIT)
