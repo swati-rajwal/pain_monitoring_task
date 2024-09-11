@@ -27,7 +27,7 @@ The interface of the application and the experiment timeline are depicted in Fig
 This task helped us collect pain ratings and highlight the importance of short-term variability in chronic musculoskeletal pain and its potential as a predictor of clinical outcomes. Please read our paper as cited below for more details.
 
 ### 📑Citation
-<img alt="Static Badge" src="https://img.shields.io/badge/Zenodo-https%3A%2F%2Fzenodo.org%2F-blue?link=https%3A%2F%2Fzenodo.org%2F">
+[![Zenodo](https://img.shields.io/badge/Hosted%20on%20Zenodo-Zenodo.org-blue.svg)](https://www.zenodo.org)
 
 Xuanci Zheng, Swati Rajwal, Sharon Yuen Shan Ho, Carl Ashworth, Ben Seymour, Nicholas Shenker, and Flavia Mancini, "_Hidden Rhythms of Chronic Musculoskeletal Pain_" unpublished manuscript, 2024. Available upon request.
 
