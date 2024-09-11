@@ -22,16 +22,15 @@ The interface of the application and the experiment timeline are depicted in Fig
 4. Paste our current [GitHub URL](https://github.com/swati-rajwal/pain_monitoring_task) under the 'Git repository URL' textbox. On the pavlovia page, you can rename the default 'Project name' to suit your project's requirements.
 5. Voilà! The task is instantly ready to use for your experiment.
 
-## Application
-This task helped us collect pain rating and highlight the importance of short-term variability in chronic musculoskeletal pain and its potential as a predictor of clinical outcomes. Please read our paper as cited below.
- 
-### 📑 Citation
-Please consider citing 📑 our paper if our repository is helpful to your work.
-```bibtex
-@article{}
-```
+## 🎯Application
+This task helped us collect pain ratings and highlight the importance of short-term variability in chronic musculoskeletal pain and its potential as a predictor of clinical outcomes. Please read our paper as cited below for more details.
 
-## References
+### 📑Citation
+Xuanci Zheng, Swati Rajwal, Sharon Yuen Shan Ho, Carl Ashworth, Ben Seymour, Nicholas Shenker, and Flavia Mancini, "_Hidden Rhythms of Chronic Musculoskeletal Pain_" unpublished manuscript, 2024. Available upon request.
+
+Citation will be updated as soon as a preprint or publication is available
+
+## 📚References
 
 1. Peirce, J., Gray, J.R., Simpson, S. et al. *PsychoPy2: Experiments in behavior made easy.* Behav Res 51, 195–203 (2019). https://doi.org/10.3758/s13428-018-01193-y
 2. Pavlovia. *Pavlovia*, https://pavlovia.org/. Accessed 10/09/024.
