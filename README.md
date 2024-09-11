@@ -6,6 +6,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswati-rajwal%2Fpain_monitoring_task&count_bg=%23C83D7B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![GitHub Repo stars](https://img.shields.io/github/stars/swati-rajwal/pain_monitoring_task)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub forks](https://img.shields.io/github/forks/swati-rajwal/pain_monitoring_task.svg?style=social&label=Fork)](https://github.com/swati-rajwal/pain_monitoring_task/network/)
+
 </h5>
 
 This continuous pain rating task assesses pain intensity using the open-source software PsychoPy [1] hosted on Pavlovia [2]. At the start, participants are provided with detailed instructions and asked to complete a short practice run to ensure they understood how the application worked. Once this is completed, participants continuously rated their pain for approximately five minutes on a vertical scale ranging from "Least Pain" to "Most Pain."
