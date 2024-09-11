@@ -10,7 +10,6 @@
 
 </h5>
 
-This continuous pain rating task assesses pain intensity using the open-source software PsychoPy [1] hosted on Pavlovia [2]. At the start, participants are provided with detailed instructions and asked to complete a short practice run to ensure they understood how the application worked. Once this is completed, participants continuously rated their pain for approximately five minutes on a vertical scale ranging from "Least Pain" to "Most Pain."
 
 The interface of the application and the experiment timeline are depicted in Figure 1:
 <p align="center">
