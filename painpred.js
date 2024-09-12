@@ -145,7 +145,7 @@ async function updateInfo() {
 
   // add info from the URL:
   util.addInfoFromUrl(expInfo);
-  psychoJS.setRedirectUrls((('https://cambridge.eu.qualtrics.com/jfe/form/SV_d4PVNS3DJX0vd2u?PROLIFIC_PID=' + expInfo['participant']) + '&SESSION_ID=') + expInfo['session']);
+  psychoJS.setRedirectUrls('https://www.google.com');
   return Scheduler.Event.NEXT;
 }
 
@@ -4197,7 +4197,7 @@ function trials_failLoopBegin(trials_failLoopScheduler, snapshot) {
         trials_failLoopScheduler.add(end_failedRoutineEnd(snapshot));
         trials_failLoopScheduler.add(trials_failLoopEndIteration(trials_failLoopScheduler, snapshot));
         trials_failLoopScheduler.add(quitPsychoJS, '', true);
-        psychoJS.setRedirectUrls((((('https://cambridge.eu.qualtrics.com/jfe/form/SV_eJQrFRtGOtt43j0?PROLIFIC_PID=' + expInfo['participant']) + '&SESSION_ID=') + expInfo['session']) + '&Q_PID=') + expInfo['qpid']);
+        psychoJS.setRedirectUrls('https://www.google.com');
       }
       
       return Scheduler.Event.NEXT;
@@ -4278,8 +4278,7 @@ function trials_failLoopBegin(trials_failLoopScheduler, snapshot) {
           trials_fail_2LoopScheduler.add(end_failedRoutineEnd(snapshot));
           trials_fail_2LoopScheduler.add(trials_fail_2LoopEndIteration(trials_fail_2LoopScheduler, snapshot));
           trials_fail_2LoopScheduler.add(quitPsychoJS, '', true);
-          psychoJS.setRedirectUrls((((('https://cambridge.eu.qualtrics.com/jfe/form/SV_eJQrFRtGOtt43j0?PROLIFIC_PID=' + expInfo['participant']) + '&SESSION_ID=') + expInfo['session']) + '&Q_PID=') + expInfo['qpid']);
-          
+          psychoJS.setRedirectUrls('https://www.google.com');
         }
         
         return Scheduler.Event.NEXT;
@@ -4360,8 +4359,8 @@ function trials_failLoopBegin(trials_failLoopScheduler, snapshot) {
           trials_fail_quizLoopScheduler.add(end_failedRoutineEnd(snapshot));
           trials_fail_quizLoopScheduler.add(trials_fail_quizLoopEndIteration(trials_fail_quizLoopScheduler, snapshot));
           trials_fail_quizLoopScheduler.add(quitPsychoJS, '', true);
-          psychoJS.setRedirectUrls((((('https://cambridge.eu.qualtrics.com/jfe/form/SV_eJQrFRtGOtt43j0?PROLIFIC_PID=' + expInfo['participant']) + '&SESSION_ID=') + expInfo['session']) + '&Q_PID=') + expInfo['qpid']);
-        }
+          psychoJS.setRedirectUrls('https://www.google.com');
+}
         
         return Scheduler.Event.NEXT;
       }
@@ -4442,7 +4441,7 @@ function trials_failLoopBegin(trials_failLoopScheduler, snapshot) {
             trials_fail_3LoopScheduler.add(end_failedRoutineEnd(snapshot));
             trials_fail_3LoopScheduler.add(trials_fail_3LoopEndIteration(trials_fail_3LoopScheduler, snapshot));
             trials_fail_3LoopScheduler.add(quitPsychoJS, '', true);
-            psychoJS.setRedirectUrls((((('https://cambridge.eu.qualtrics.com/jfe/form/SV_eJQrFRtGOtt43j0?PROLIFIC_PID=' + expInfo['participant']) + '&SESSION_ID=') + expInfo['session']) + '&Q_PID=') + expInfo['qpid']);
+            psychoJS.setRedirectUrls('https://www.google.com');
           }
           
           return Scheduler.Event.NEXT;
