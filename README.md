@@ -2,6 +2,7 @@
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 <h5 align="center">
   
+[![DOI](https://zenodo.org/badge/855394725.svg)](https://zenodo.org/doi/10.5281/zenodo.13754801)
 [![Preprint Available](https://img.shields.io/badge/Preprint-online-orange.svg)](https://doi.org)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswati-rajwal%2Fpain_monitoring_task&count_bg=%23C83D7B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![GitHub Repo stars](https://img.shields.io/github/stars/swati-rajwal/pain_monitoring_task)
@@ -28,7 +29,7 @@ The interface of the application and the experiment timeline are depicted in Fig
 This task helped us collect pain ratings and highlight the importance of short-term variability in chronic musculoskeletal pain and its potential as a predictor of clinical outcomes. Please read our paper as cited below for more details.
 
 ### 📑Citation
-[![Zenodo](https://img.shields.io/badge/Hosted%20on%20Zenodo-Zenodo.org-blue.svg)](https://www.zenodo.org)
+[![Zenodo](https://zenodo.org/badge/855394725.svg)](https://zenodo.org/doi/10.5281/zenodo.13754801)
 
 Xuanci Zheng, Swati Rajwal, Sharon Yuen Shan Ho, Carl Ashworth, Ben Seymour, Nicholas Shenker, and Flavia Mancini, "_Hidden Rhythms of Chronic Musculoskeletal Pain_" unpublished manuscript, 2024. Available upon request.
 
