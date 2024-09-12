@@ -22,7 +22,7 @@ The interface of the application and the experiment timeline are depicted in Fig
 2. Click on '+' sign on top navigation bar and select 'New project' option.
 3. Select 'Import project' and then click on the 'Repo by URL' button
 4. Paste our current [GitHub URL](https://github.com/swati-rajwal/pain_monitoring_task) under the 'Git repository URL' textbox. On the pavlovia page, you can rename the default 'Project name' to suit your project's requirements.
-5. Voilà! The task is instantly ready to use for your experiment.
+5. Voilà! The task is instantly ready to use for your experiment. Remember, the participant data (.csv and .log files) will be stored under `data` directory
 
 ## 🎯Application
 This task helped us collect pain ratings and highlight the importance of short-term variability in chronic musculoskeletal pain and its potential as a predictor of clinical outcomes. Please read our paper as cited below for more details.
