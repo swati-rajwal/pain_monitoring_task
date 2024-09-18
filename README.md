@@ -31,7 +31,9 @@ This task helped us collect pain ratings and highlight the importance of short-t
 ### 📑Citation
 [![Zenodo](https://zenodo.org/badge/855394725.svg)](https://zenodo.org/doi/10.5281/zenodo.13754801)
 
-Xuanci Zheng, Swati Rajwal, Sharon Yuen Shan Ho, Carl Ashworth, Ben Seymour, Nicholas Shenker, and Flavia Mancini, "_Hidden Rhythms of Chronic Musculoskeletal Pain_" unpublished manuscript, 2024. Available upon request.
+Pain monitoring Task citation: Zheng, X., Rajwal, S., Ho, S. Y. S., Ashworth, C., Seymour, B., Shenker, N., & Mancini, F. (2024). _Psychopy based Continuous Pain Monitoring Task (1.0.0)_. Zenodo. https://doi.org/10.5281/zenodo.13754802 
+
+Paper Citation: Xuanci Zheng, Swati Rajwal, Sharon Yuen Shan Ho, Carl Ashworth, Ben Seymour, Nicholas Shenker, and Flavia Mancini, "_Hidden Rhythms of Chronic Musculoskeletal Pain_" unpublished manuscript, 2024. Available upon request.
 
 Citation will be updated as soon as a preprint or publication is available
 
