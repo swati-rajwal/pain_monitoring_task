@@ -31,11 +31,26 @@ This task helped us collect pain ratings and highlight the importance of short-t
 ### 📑Citation
 [![Zenodo](https://zenodo.org/badge/855394725.svg)](https://zenodo.org/doi/10.5281/zenodo.13754801)
 
-Pain monitoring Task citation: Zheng, X., Rajwal, S., Ho, S. Y. S., Ashworth, C., Seymour, B., Shenker, N., & Mancini, F. (2024). _Psychopy based Continuous Pain Monitoring Task (1.0.0)_. Zenodo. https://doi.org/10.5281/zenodo.13754802 
+**Pain monitoring Task citation**: 
 
-Paper Citation: Xuanci Zheng, Swati Rajwal, Sharon Yuen Shan Ho, Carl Ashworth, Ben Seymour, Nicholas Shenker, and Flavia Mancini, "_Hidden Rhythms of Chronic Musculoskeletal Pain_" unpublished manuscript, 2024. Available upon request.
+Zheng, X., Rajwal, S., Ho, S. Y. S., Ashworth, C., Seymour, B., Shenker, N., & Mancini, F. (2024). _Psychopy based Continuous Pain Monitoring Task (1.0.0)_. Zenodo. https://doi.org/10.5281/zenodo.13754802 
 
-Citation will be updated as soon as a preprint or publication is available
+**Preprint paper citation**:
+```bibtex
+@article {Zheng2025.01.12.25320413,
+author = {Zheng, Xuanci and Rajwal, Swati and Ho, Sharon Yuen Shan and Ashworth, Carl and Seymour, Ben and Shenker, Nicholas and Mancini, Flavia},
+title = {Short-term variability of chronic musculoskeletal pain},
+elocation-id = {2025.01.12.25320413},
+year = {2025},
+doi = {10.1101/2025.01.12.25320413},
+publisher = {Cold Spring Harbor Laboratory Press},
+URL = {https://www.medrxiv.org/content/early/2025/01/13/2025.01.12.25320413},
+eprint = {https://www.medrxiv.org/content/early/2025/01/13/2025.01.12.25320413.full.pdf},
+journal = {medRxiv}
+}
+```
+
+Citation will be updated as soon as the preprint is published
 
 ## 📚References
 
