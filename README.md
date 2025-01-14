@@ -3,7 +3,7 @@
 <h5 align="center">
   
 [![DOI](https://zenodo.org/badge/855394725.svg)](https://zenodo.org/doi/10.5281/zenodo.13754801)
-[![Preprint Available](https://img.shields.io/badge/Preprint-online-orange.svg)](https://doi.org)
+[![Preprint Available](https://img.shields.io/badge/Preprint-online-orange.svg)](https://www.medrxiv.org/content/10.1101/2025.01.12.25320413v1)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fswati-rajwal%2Fpain_monitoring_task&count_bg=%23C83D7B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![GitHub Repo stars](https://img.shields.io/github/stars/swati-rajwal/pain_monitoring_task)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
